@@ -18,7 +18,7 @@ public class OrienData implements SensorEventListener {
     public float[] getOrientation(){
         return orientation;
     }
-
+ // hghf
     private float [] startOrientation = null;
     public float[] getStartOrientation() {
         return startOrientation;
